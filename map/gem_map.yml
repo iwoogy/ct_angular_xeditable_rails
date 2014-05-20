@@ -1,0 +1,10 @@
+---
+module:
+  name: "xeditable"
+uis:
+  - name: editable-text
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
